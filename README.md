@@ -58,7 +58,7 @@ To enable debug messages replace false with true in following macro
 ```
 * You can change 3 and float3 to max number of joints that will affect vertecies
 * Don't forget to do same thing in vertex shader of ```shRenderColladaModel```
-* #define MAX_JOINTS 3
+* Change 3 to same N of affecting joints ```#define MAX_JOINTS 3```
 
 **Next:**
 
