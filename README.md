@@ -1,4 +1,4 @@
-# Collada-Import-For-GMS-2
+# Collada Importer For GMS 2
 *.dae (Collada) importer for game maker studio 2
 
 ***WARNING THIS LOADER DOESN'T CLEAN UP ANYTHING YET! USE AT YOUR OWN RISK!***
