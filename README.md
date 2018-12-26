@@ -1,6 +1,8 @@
 # Collada-Import-For-GMS-2
 *.dae (Collada) importer for game maker studio 2
 
+***WARNING THIS LOADER DOESN'T CLEAN UP ANYTHING YET! USE AT YOUR OWN RISK!***
+
 **Example**
 ![Example](Example.png)
 
@@ -38,7 +40,10 @@ Usage:
     MatrixIdentity; // Reset world transformations
 shader_reset();
  ```
- 
+
+To enable debug messages replace false with true in following macro
+
+```#macro ColladaShowMessages false```
  
 ***
 **P.S. Whanna work with animations? Add this thing somewhere:**
