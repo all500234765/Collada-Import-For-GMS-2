@@ -5,12 +5,14 @@
 ***https://marketplace.yoyogames.com/assets/7740/colladaloader***
 
 ***WARNING THIS LOADER DOESN'T CLEAN UP ANYTHING YET! USE AT YOUR OWN RISK!***
-***
-WARNING: TO ENABLE MODEL CACHING REMOVE false IN ```ColladaLoad``` at line ~8 
-if( file_exists(fn1) && file_exists(fn2) && false ) 
-replace it with
-if( file_exists(fn1) && file_exists(fn2) ) 
-***
+
+**WARNING: TO ENABLE MODEL CACHING REMOVE false IN ```ColladaLoad``` at line ~8**
+
+**if( file_exists(fn1) && file_exists(fn2) && false )**
+
+**replace it with**
+
+**if( file_exists(fn1) && file_exists(fn2) )**
 
 **Example**
 ![Example](Example.png)
