@@ -1,6 +1,9 @@
 # Collada Importer For GMS 2
 *.dae (Collada) importer for game maker studio 2
 
+***Guys! Wanna support my work or me so i can do more cool stuff that could help you some day?***
+***https://marketplace.yoyogames.com/assets/7740/colladaloader***
+
 ***WARNING THIS LOADER DOESN'T CLEAN UP ANYTHING YET! USE AT YOUR OWN RISK!***
 
 **Example**
