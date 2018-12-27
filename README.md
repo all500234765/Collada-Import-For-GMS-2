@@ -46,7 +46,7 @@ Usage:
         var a = ds_list_find_value(model[1], 0); // [type, id]
         // Type:
         //    2 - surface
-        // other - sprite
+        //    1 - sprite
         
         // model[0] - final vertex buffer for loaded model with auto generated format
         var t = (a[0] == 2) ? surface_get_texture(a[1]) : sprite_get_texture(a[1], 0);
